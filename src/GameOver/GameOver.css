@@ -1,0 +1,24 @@
+.gameOver {
+  align-items: center;
+  background: rgba(0, 0, 0, 0.9);
+  bottom: 0;
+  color: #fff;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  flex-direction: column;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+.gameOver-heading {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.gameOver-subHeading {
+  font-size: 1.5rem;
+}

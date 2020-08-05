@@ -1,0 +1,17 @@
+.boardState-name {
+  margin: 0;
+}
+
+.boardState-score {
+  font-size: 1.8rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.boardState-btnGroup > * + * {
+  margin-left: 1rem;
+}
+
+.boardState + .boardState {
+  margin-top: 4rem;
+}

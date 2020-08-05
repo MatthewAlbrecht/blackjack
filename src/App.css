@@ -24,15 +24,9 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn {
+  border: none;
+  padding: 0.5rem 2rem;
+  font-size: 1.2rem;
+  border-radius: 0.5rem;
 }

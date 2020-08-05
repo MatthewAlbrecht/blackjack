@@ -1,0 +1,13 @@
+.cardList {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
+.cardList-item + .cardList-item {
+  margin-left: 2rem;
+}
+.cardList-image {
+  width: 10rem;
+}
